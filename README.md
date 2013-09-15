@@ -6,10 +6,12 @@ This Wordpress Plugin uses Machine Learning to detect spam and adult content com
 It uses the Datumbox API 1.0v and is compatible with Wordpress 3.6v or higher.
 
 To read more about how it works, how it should be configured etc check out the original blog post: 
-http://blog.datumbox.com/
+http://blog.datumbox.com/how-to-build-an-intelligent-antispam-wordpress-plugin/
 
 Useful Links
 ============
+
+Datumbox Website: http://www.datumbox.com/
 
 Download API Documentation and Code Samples: http://www.datumbox.com/machine-learning-api/
 
